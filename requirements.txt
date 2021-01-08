@@ -1,0 +1,7 @@
+Flask
+pybase64
+jsonpickle
+pillow
+numpy
+opencv-python==3.4.3.18
+jsonify
